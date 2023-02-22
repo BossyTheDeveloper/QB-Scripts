@@ -1,0 +1,5 @@
+A very simple weapon on back script which adds a carbine rifle prop onto your back, even if you have a assault rifle equipped.
+This is achieved by holding your weapon and typing /attachweapon in which a confimation will appear in the chat box as well as the weapon appearing on your back
+The limitations of my coding knowledge at this point hinder me from making it equip the right weapon on the back. 
+Feel free to alter my code and create changes, i would like credit for the original creation if the code was changed.
+Thanks, Bossy
